@@ -55,8 +55,8 @@ void setup() {
 void loop() {
   // move cycling servos
   // comment line to stop one or more servos
-  braccio.[0].refresh();
-  braccio.[1].refresh();
-  braccio.[2].refresh();
-  braccio.[3].refresh();
+  braccio[0].refresh();
+  braccio[1].refresh();
+  braccio[2].refresh();
+  braccio[3].refresh();
 }
